@@ -1,0 +1,6 @@
+name: Skeleton
+version: '${project.version}'
+main: org.setup.minecraft.Main
+api-version: '1.21'
+commands:
+  config:
