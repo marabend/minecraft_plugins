@@ -1,0 +1,5 @@
+name: untitled
+version: '1.0-SNAPSHOT'
+main: org.examples.untitled.APITest
+api-version: '1.21'
+depend: [TestPlugin]
