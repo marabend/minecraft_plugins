@@ -7,6 +7,18 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
+/*
+
+CREATE TABLE `test_plugin`.`players` (
+  `ID` INT NOT NULL AUTO_INCREMENT,
+  `UUID` VARCHAR(36) NULL,
+  `RANK` VARCHAR(20) NULL,
+  `COINS` INT NULL,
+  PRIMARY KEY (`ID`),
+  UNIQUE INDEX `ID_UNIQUE` (`ID` ASC) VISIBLE,
+  UNIQUE INDEX `UUID_UNIQUE` (`UUID` ASC) VISIBLE);
+
+*/
 
 public class Main extends JavaPlugin  {
 
