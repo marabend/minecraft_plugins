@@ -1,0 +1,9 @@
+required-players: 2
+countdown-seconds: 30
+arenas:
+   world: 'world'
+   x: 166
+   y: 72
+   z: -5
+   yaw: -180
+   pitch: 0
