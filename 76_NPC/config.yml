@@ -1,0 +1,33 @@
+required-players: 2
+countdown-seconds: 30
+arenas:
+  0:
+    player-spawn:
+       world: 'world'
+       x: 166
+       y: 72
+       z: -5
+       yaw: -180
+       pitch: 0
+    npc-spawn:
+      world: 'world'
+      x: 4.5
+      y: 4
+      z: -69.5
+      yaw: -180
+      pitch: 0
+  1:
+    player-spawn:
+      world: 'world'
+      x: 166
+      y: 72
+      z: -5
+      yaw: -180
+      pitch: 0
+    npc-spawn:
+      world: 'world'
+      x: 4.5
+      y: 4
+      z: -69.5
+      yaw: -180
+      pitch: 0
