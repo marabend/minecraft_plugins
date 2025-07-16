@@ -8,7 +8,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 import org.bukkit.plugin.messaging.PluginMessageListener;
 
 
-public class Main extends JavaPlugin implements PluginMessageListener {
+public class Main extends JavaPlugin implements Listener {
 
 
     @Override
